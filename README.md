@@ -11,3 +11,7 @@ To avoid the forecasting biases inherent in single-model approaches that rely on
 To illustrate the implications of this framework, we provide critical insights into assessing the impact of COVID-19 interventions on influenza dynamics, estimating up to a 95.2% (95% PI: 89.1–98.3) reduction in influenza attack rate during the 2019/20 season.
 Furthermore, the framework was extended to forecast re-emerging influenza activity during the post-pandemic period since early 2023, suggesting that the potential impact of viral interference and cocirculation with COVID-19 has continued to hinder the resurgence of influenza, likely through cross-protection mechanisms influencing population immunity.
 The methodological framework we present is not only valuable for understanding influenza dynamics in subtropical regions but also offers a scalable tool for forecasting other respiratory infections and for application in other regions.
+
+# Ref 
+Ensemble forecasting of influenza activity and assessing its year-round dynamical characteristics during and post-COVID-19 pandemic periods in a sub-tropical location
+doi: https://doi.org/10.64898/2025.12.17.25342517
